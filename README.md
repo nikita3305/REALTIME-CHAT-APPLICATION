@@ -16,7 +16,7 @@ MENTOR NAME:NEELA SANTOSH
 WHENEVER USER TRIES TO ASK MINE PROJECT THEY WILL GIVE ANS ABOUT ANY QUESTION WHICH RELATED TO CODING.
 
 **OUTPUT
-
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/f10d8053-cf9a-4d61-956f-9dee0363c10f" />
 
 
 
